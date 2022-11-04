@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoCrmIntegration", "ZohoCrmIntegration\ZohoCrmIntegration.csproj", "{65558B16-D2CA-4F76-ADA2-93B683CB9448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65558B16-D2CA-4F76-ADA2-93B683CB9448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65558B16-D2CA-4F76-ADA2-93B683CB9448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65558B16-D2CA-4F76-ADA2-93B683CB9448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65558B16-D2CA-4F76-ADA2-93B683CB9448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694A7E81-0571-42C6-9C1F-D72C6D0CE499}
+	EndGlobalSection
+EndGlobal
